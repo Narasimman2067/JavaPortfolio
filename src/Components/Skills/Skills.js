@@ -52,11 +52,11 @@ export const Skills = () => {
           </div>
           <h5>JavaScript</h5>
           <div className="skillset-slider skillset-color3">
-            <LinearProgress variant="determinate" value={90} />
+            <LinearProgress variant="determinate" value={80} />
           </div>
           <h5>React.JS</h5>
           <div className="skillset-slider skillset-color4">
-            <LinearProgress variant="determinate" value={80} />
+            <LinearProgress variant="determinate" value={50} />
           </div>
           <h5>Core Java</h5>
           <div className="skillset-slider skillset-color5">

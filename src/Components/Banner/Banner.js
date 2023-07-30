@@ -21,12 +21,7 @@ export const Banner = () => {
             </p>
             <div className="my-work">
               <a className="my-work" href="#Projects">
-                {/* <button
-                  className="my-btn"
-                  onClick={() => console.log("connect")}
-                >
-                  My Work
-                </button> */}
+              
               </a>
             </div>
           </Col>
