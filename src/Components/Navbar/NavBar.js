@@ -46,7 +46,7 @@ export const NavBar = () => {
               Home
             </Nav.Link>
             <Nav.Link
-              href="#Projects"
+              href="#About"
               className={
                 activeLink === "Projects" ? "active navbar-link" : "navbar-link"
               }
@@ -89,7 +89,7 @@ export const NavBar = () => {
               </a>
             </div>
 
-            <a href="Resume.pdf" target="_blank">
+            <a href="Narasimman.Resume.pdf" target="_blank">
               <button className="vvd">
                 <span>Download CV</span>
               </button>

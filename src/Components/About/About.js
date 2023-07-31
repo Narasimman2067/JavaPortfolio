@@ -4,7 +4,7 @@ import colorSharp2 from "../Images/color-sharp2.png";
 
 export const About = () => {
   return (
-    <section className="project" id="Projects">
+    <section className="About" id="About">
       <Container>
       <h2>About</h2>
         <p>
